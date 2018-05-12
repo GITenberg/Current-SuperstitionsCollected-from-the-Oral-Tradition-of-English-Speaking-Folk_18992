@@ -1,0 +1,36 @@
+_repo: Current-SuperstitionsCollected-from-the-Oral-Tradition-of-English-Speaking-Folk_18992
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Newell, William Wells
+    birthdate: 1839
+    deathdate: 1907
+    gutenberg_agent_id: '8394'
+    url: http://www.gutenberg.org/2009/agents/8394
+    wikipedia: http://en.wikipedia.org/wiki/William_Wells_Newell
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Bergen, Fanny D. (Fanny Dickerson)
+    birthdate: 1846
+    gutenberg_agent_id: '8395'
+    url: http://www.gutenberg.org/2009/agents/8395
+description: ''
+gutenberg_issued: '2006-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18992'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Folklore -- United States'
+- !lcsh 'Folklore -- England'
+title: 'Current Superstitions
+
+  Collected from the Oral Tradition of English Speaking Folk'
+url: http://www.gutenberg.org/ebooks/18992
